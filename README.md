@@ -12,8 +12,7 @@ run 'index.html' file in a browser. The Neuroevolution model will be deployed. T
 ![learnt](/img/flappy.png)
 
 # Live model
-https://recto-accessum.000webhostapp.com/FLAPPY%20FIXED/FLAPPY_FILES/index.html - automatic!
-
+[FlappyBirdAI](https://recto-accessum.000webhostapp.com/FLAPPY%20FIXED/FLAPPY_FILES/index.html)
 Thank You 
 
 Yours Truely,  

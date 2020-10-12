@@ -1,7 +1,7 @@
 # FlappyBird-Neuroevolution-AI
 ![Logo](/img/logo.png)
 
-A Javascript implementation of FlappyBird, where on the implementation of Neuroevolution the Bird learns to adapt to its environment by learning through neuroevolution
+A Javascript implementation of Flappy_Bird_AI. By using Neuroevolution, the Bird learns to adapt to its environment and eventually perfects itself to navigate completely on its own
 
 # Running the Model
 Clone the rep first. Then open the files and change the location information in the two Javascript files and the one HTML file so that all of them are interconnected.
